@@ -49,9 +49,21 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 # 4. Install dependencies
 pip install -r requirements.txt
 
-
-
 # 5. Run the app
 streamlit run app.py
 
+
+---
+
+## 👨‍💻 Developed by
+
+### Bisrat Weldegiyorgis
+
+🔗 Check out the live app: https://urovisionai.streamlit.app/
+
+---
+
+## 📜 License
+
+This project is for educational and research purposes only.
 
