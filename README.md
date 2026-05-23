@@ -14,19 +14,19 @@ UroVisionAI is a deep learning-based medical AI system that analyzes urine sampl
 
 ## ✨ Key Features
 
-- 🧠 Deep Learning CNN model trained on urine image dataset
-- 🖼️ Upload or capture urine sample images
-- ⚡ Real-time AI inference using PyTorch
-- 📊 Automated clinical report generation
-- ⚠️ Risk classification (Low / Medium / High)
-- 🎨 Premium UI with medical-grade dashboard design
+- 🧠 Deep Learning CNN model trained on urine image dataset  
+- 🖼️ Upload or capture urine sample images  
+- ⚡ Real-time AI inference using PyTorch  
+- 📊 Automated clinical report generation  
+- ⚠️ Risk classification (Low / Medium / High)  
+- 🎨 Premium UI with medical-grade dashboard design  
 - 📱 Fully web-based (Streamlit)
 
 ---
 
 ## 🧬 How It Works
 
-1. User uploads or captures a urine sample image  
+1. Upload or capture urine sample image  
 2. Image is preprocessed (resize + normalization)  
 3. CNN model predicts:
    - Color
@@ -36,31 +36,9 @@ UroVisionAI is a deep learning-based medical AI system that analyzes urine sampl
    - Diagnosis
    - Risk level
    - Clinical recommendation  
-5. Results are displayed in a medical dashboard
+5. Results are displayed in a medical dashboard  
 
 ---
-
-
----
-
-## ⚙️ Installation & Setup
-
-```bash
-# 1. Clone repository
-git clone https://github.com/your-username/UroVisionAI.git
-
-# 2. Navigate into project
-cd UroVisionAI
-
-# 3. Create virtual environment (optional)
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-
-# 4. Install dependencies
-pip install -r requirements.txt
-
-# 5. Run application
-streamlit run app.py
 
 ## 🧠 Tech Stack
 
@@ -72,19 +50,9 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Disclaimer
+## 👨‍💻 Developed By
 
-UroVisionAI is intended for **educational and research purposes only**.  
-It is **not a replacement for professional medical diagnosis**.
-
-Always consult a licensed healthcare professional for medical decisions.
-
----
-
-## 👨‍💻 Developed by
-
-### 🧑‍💻 Bisrat Weldegiyorgis
-
+**🧑‍💻 Bisrat Weldegiyorgis**  
 AI Engineer | Medical AI Systems Developer  
 Focused on Deep Learning & Healthcare AI Innovation  
 
@@ -94,5 +62,8 @@ Focused on Deep Learning & Healthcare AI Innovation
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project for educational and research purposes.
+MIT License
+
+Copyright (c) 2026 Bisrat Weldegiyorgis
+
+Permission is hereby granted, free of charge, to use, copy, modify, and distribute this project for educational and research purposes.
