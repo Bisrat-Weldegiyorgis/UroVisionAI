@@ -53,17 +53,29 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
+
 ---
 
 ## 👨‍💻 Developed by
 
 ### Bisrat Weldegiyorgis
 
-🔗 Check out the live app: https://urovisionai.streamlit.app/
+🔗 Live App: https://urovisionai.streamlit.app/
 
 ---
 
 ## 📜 License
 
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project for educational and research purposes.
+
+---
+
+## ⚠️ Disclaimer
+
 This project is for educational and research purposes only.
+It is not intended for medical diagnosis or clinical use.
+
+
 
