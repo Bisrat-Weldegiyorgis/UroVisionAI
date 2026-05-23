@@ -1,45 +1,66 @@
 # 🧪 UroVisionAI
 
-UroVisionAI is a deep learning-based web application for analyzing urine images. It uses a trained PyTorch CNN model and provides a simple Streamlit interface for real-time predictions and clinical-style insights.
+### AI-Powered Urine Analysis for Clinical Decision Support
+
+UroVisionAI is a deep learning-based medical AI system that analyzes urine samples from images using a trained PyTorch CNN model. It delivers fast predictions, clinical insights, and risk assessment through a modern Streamlit web application.
 
 ---
 
-## 🚀 Features
+## 🚀 Live Demo
 
-- 🧠 CNN-based urine image classification
-- 🖼️ Upload or capture images via camera
-- ⚡ Fast inference using PyTorch
-- 📊 Prediction of:
-  - Color
-  - Foam
-  - Clarity
-- 🏥 Clinical-style report generation:
-  - Diagnosis
-  - Risk level
-  - Recommendations
-- 🌐 Interactive Streamlit web interface
+👉 https://urovisionai.streamlit.app/
+
+---
+
+## ✨ Key Features
+
+- 🧠 Deep Learning CNN model trained on urine image dataset
+- 🖼️ Upload or capture urine sample images
+- ⚡ Real-time AI inference using PyTorch
+- 📊 Automated clinical report generation
+- ⚠️ Risk classification (Low / Medium / High)
+- 🎨 Premium UI with medical-grade dashboard design
+- 📱 Fully web-based (Streamlit)
+
+---
+
+## 🧬 How It Works
+
+1. User uploads or captures a urine sample image  
+2. Image is preprocessed (resize + normalization)  
+3. CNN model predicts:
+   - Color
+   - Foam level
+   - Clarity  
+4. System generates:
+   - Diagnosis
+   - Risk level
+   - Clinical recommendation  
+5. Results are displayed in a medical dashboard
 
 ---
 
 ## 📁 Project Structure
 
+
 UroVisionAI/
- - app.py                  # Streamlit web application
- - dataset/
-    - label_encoder.pkl    # Label encoder for classes
-    - urine_cnn.pth        # Trained PyTorch model
- - requirements.txt        # Project dependencies
- - README.md               # Project documentation
+├── app.py # Streamlit web application
+├── dataset/
+│ ├── urine_cnn.pth # Trained PyTorch model
+│ ├── label_encoder.pkl # Label encoder
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
+
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
-```bash id="p3m9aa"
-# 1. Clone the repository
+```bash
+# 1. Clone repository
 git clone https://github.com/your-username/UroVisionAI.git
 
-# 2. Move into project folder
+# 2. Navigate into project
 cd UroVisionAI
 
 # 3. Create virtual environment (optional)
@@ -49,29 +70,31 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 # 4. Install dependencies
 pip install -r requirements.txt
 
-# 5. Run the app
+# 5. Run application
 streamlit run app.py
+🧠 Tech Stack
+Python 🐍
+PyTorch 🔥
+Streamlit 🌐
+TorchVision 👁️
+PIL (Pillow) 🖼️
+⚠️ Disclaimer
 
+UroVisionAI is intended for educational and research purposes only.
+It is not a replacement for professional medical diagnosis.
 
-## 👨‍💻 Developed by
+Always consult a licensed healthcare professional for medical decisions.
 
-# 🧑‍💻 **Bisrat Weldegiyorgis**
+👨‍💻 Developed by
+🧑‍💻 Bisrat Weldegiyorgis
+
+AI Engineer | Medical AI Systems Developer
+Focused on Deep Learning & Healthcare AI Innovation
 
 🔗 Live App: https://urovisionai.streamlit.app/
 
----
-
-## 📜 License
+📜 License
 
 This project is licensed under the MIT License.
 
 You are free to use, modify, and distribute this project for educational and research purposes.
-
----
-
-## ⚠️ Disclaimer
-
-This project is for educational and research purposes only.  
-It is not intended for medical diagnosis or clinical use.
-
-
