@@ -53,10 +53,6 @@ UroVisionAI is a deep learning-based medical AI system that analyzes urine sampl
 ## 👨‍💻 Developed By
 
 **🧑‍💻 Bisrat Weldegiyorgis**  
-AI Engineer | Medical AI Systems Developer  
-Focused on Deep Learning & Healthcare AI Innovation  
-
-🔗 Live App: https://urovisionai.streamlit.app/
 
 ---
 
