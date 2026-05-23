@@ -65,18 +65,16 @@ streamlit run app.py
 
 ---
 
-## 🧠 **Tech Stack**
-
-- Python 🐍  
-- PyTorch 🔥  
-- Streamlit 🌐  
-- TorchVision 👁️  
-- PIL (Pillow) 🖼️  
+## 🧠 Tech Stack
+- **Python 🐍**
+- **PyTorch 🔥**
+- **Streamlit 🌐**
+- **TorchVision 👁️**
+- **PIL (Pillow) 🖼️**
 
 ---
 
-## ⚠️ **Disclaimer**
-
+## ⚠️ Disclaimer
 UroVisionAI is intended for **educational and research purposes only**.  
 It is **not a replacement for professional medical diagnosis**.  
 
@@ -84,14 +82,18 @@ Always consult a licensed healthcare professional for medical decisions.
 
 ---
 
-## 👨‍💻 **Developed by**
+## 👨‍💻 Developed by
 
-### 🧑‍💻 **Bisrat Weldegiyorgis**
+### **🧑‍💻 Bisrat Weldegiyorgis**
+
+AI Engineer | Medical AI Systems Developer  
+Focused on Deep Learning & Healthcare AI Innovation  
+
+🔗 Live App: https://urovisionai.streamlit.app/
 
 ---
 
-## 📜 **License**
-
-This project is licensed under the **MIT License**.
-
+## 📜 License
+This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project for educational and research purposes.
+
