@@ -65,6 +65,8 @@ streamlit run app.py
 
 ---
 
+---
+
 ## 🧠 Tech Stack
 - Python 🐍  
 - PyTorch 🔥  
@@ -83,11 +85,12 @@ Always consult a licensed healthcare professional for medical decisions.
 ---
 
 ## 👨‍💻 Developed by
-**Bisrat Weldegiyorgis**  
+
+**🧑‍💻 Bisrat Weldegiyorgis**  
 AI Engineer | Medical AI Systems Developer  
 Focused on Deep Learning & Healthcare AI Innovation  
 
-🔗 Live App: [https://urovisionai.streamlit.app/](https://urovisionai.streamlit.app/)
+🔗 Live App: https://urovisionai.streamlit.app/
 
 ---
 
