@@ -62,21 +62,20 @@ pip install -r requirements.txt
 # 5. Run application
 streamlit run app.py
 
-
----
-
 ## 🧠 Tech Stack
-- **Python 🐍**
-- **PyTorch 🔥**
-- **Streamlit 🌐**
-- **TorchVision 👁️**
-- **PIL (Pillow) 🖼️**
+
+- Python 🐍  
+- PyTorch 🔥  
+- Streamlit 🌐  
+- TorchVision 👁️  
+- PIL (Pillow) 🖼️  
 
 ---
 
 ## ⚠️ Disclaimer
+
 UroVisionAI is intended for **educational and research purposes only**.  
-It is **not a replacement for professional medical diagnosis**.  
+It is **not a replacement for professional medical diagnosis**.
 
 Always consult a licensed healthcare professional for medical decisions.
 
@@ -84,7 +83,7 @@ Always consult a licensed healthcare professional for medical decisions.
 
 ## 👨‍💻 Developed by
 
-### **🧑‍💻 Bisrat Weldegiyorgis**
+### 🧑‍💻 Bisrat Weldegiyorgis
 
 AI Engineer | Medical AI Systems Developer  
 Focused on Deep Learning & Healthcare AI Innovation  
@@ -94,6 +93,6 @@ Focused on Deep Learning & Healthcare AI Innovation
 ---
 
 ## 📜 License
+
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project for educational and research purposes.
-
