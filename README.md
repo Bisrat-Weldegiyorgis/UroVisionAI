@@ -40,17 +40,6 @@ UroVisionAI is a deep learning-based medical AI system that analyzes urine sampl
 
 ---
 
-## 📁 Project Structure
-
-
-UroVisionAI/
-├── app.py # Streamlit web application
-├── dataset/
-│ ├── urine_cnn.pth # Trained PyTorch model
-│ ├── label_encoder.pkl # Label encoder
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-
 
 ---
 
@@ -72,29 +61,41 @@ pip install -r requirements.txt
 
 # 5. Run application
 streamlit run app.py
-🧠 Tech Stack
-Python 🐍
-PyTorch 🔥
-Streamlit 🌐
-TorchVision 👁️
-PIL (Pillow) 🖼️
-⚠️ Disclaimer
 
-UroVisionAI is intended for educational and research purposes only.
-It is not a replacement for professional medical diagnosis.
+
+---
+
+# 🧠 Tech Stack
+
+- Python 🐍  
+- PyTorch 🔥  
+- Streamlit 🌐  
+- TorchVision 👁️  
+- PIL (Pillow) 🖼️  
+
+---
+
+# ⚠️ Disclaimer
+
+UroVisionAI is intended for educational and research purposes only.  
+It is not a replacement for professional medical diagnosis.  
 
 Always consult a licensed healthcare professional for medical decisions.
 
-👨‍💻 Developed by
-🧑‍💻 Bisrat Weldegiyorgis
+---
 
-AI Engineer | Medical AI Systems Developer
-Focused on Deep Learning & Healthcare AI Innovation
+# 👨‍💻 Developed by
+
+## 🧑‍💻 **Bisrat Weldegiyorgis**
+
+AI Engineer | Medical AI Systems Developer  
+Focused on Deep Learning & Healthcare AI Innovation  
 
 🔗 Live App: https://urovisionai.streamlit.app/
 
-📜 License
+---
 
-This project is licensed under the MIT License.
+# 📜 License
 
+This project is licensed under the MIT License.  
 You are free to use, modify, and distribute this project for educational and research purposes.
