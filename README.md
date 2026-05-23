@@ -53,12 +53,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-
----
-
 ## 👨‍💻 Developed by
 
-### Bisrat Weldegiyorgis
+# 🧑‍💻 **Bisrat Weldegiyorgis**
 
 🔗 Live App: https://urovisionai.streamlit.app/
 
@@ -74,8 +71,7 @@ You are free to use, modify, and distribute this project for educational and res
 
 ## ⚠️ Disclaimer
 
-This project is for educational and research purposes only.
+This project is for educational and research purposes only.  
 It is not intended for medical diagnosis or clinical use.
-
 
 
